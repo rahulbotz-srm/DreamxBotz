@@ -61,8 +61,8 @@ OWNER_UPI_ID = environ.get('OWNER_UPI_ID', 'NOT AVAILABLE RIGHT NOW ')
 # ============================
 # MongoDB Configuration
 # ============================
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://srmmoviesbot:dh3TzofvsoEABnka@cluster0.dzk2q.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
-DATABASE_URI2 = environ.get('DATABASE_URI2', "mongodb+srv://rahulbotzofficial:cOKSffOCo9SfoVNX@cluster0.oufrcfu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://srmbossbot:YhS3OCHOb6RjTiXO@cluster0.xzgza.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DATABASE_URI2 = environ.get('DATABASE_URI2', "mongodb+srv://rahulbotzofficial:rahulbotzofficial@cluster0.oufrcfu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DATABASE_NAME = environ.get('DATABASE_NAME', "cluster")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'dreamcinezone_files')
 
